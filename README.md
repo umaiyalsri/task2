@@ -34,7 +34,3 @@ IBM Telco Customer Churn Dataset
 - Excel Analysis File
 - Word Report
 - Dashboard Screenshot
-
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
